@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-NikhilChalikwar-blue)](https://www.linkedin.com/in/nikhil-chalikwar-32877418b/)
 [![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwar@gmail.com)
 
+<p align="center">
+  
+  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" />
+</p>
 ## Coder Name : Nikhil Chalikwar
 
 - ⬆ **OWN-SIGN - PHOENIX**
@@ -57,7 +61,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <img src="https://github.com/nknik/nknik/blob/main/preview.gif" width="350" />
 </p>
 ⭐️ From [Nikhil Chalikwar ⭐️NK⭐️](https://github.com/nknik)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nknik" alt="NIKHIL NK" /> </p>
