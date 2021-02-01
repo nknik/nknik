@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwar@gmail.com)
 
 <p align="center">
-  ## Coder Name : Nikhil Chalikwar
-  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" /> <br>
+  ## Coder Name : Nikhil Chalikwar<br><br>
+  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" /> 
 
 - ⬆ **OWN-SIGN - PHOENIX**
 - ➕ **New Skills Unlocked - Graphql, React**
