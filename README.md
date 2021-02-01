@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>नमस्ते (Namaste)🙏🏻! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
   
 [![](https://img.shields.io/badge/LinkedIn-NikhilChalikwar-blue)](https://www.linkedin.com/in/nikhil-chalikwar-32877418b/)
 [![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwar@gmail.com)
