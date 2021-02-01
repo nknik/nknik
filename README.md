@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwar@gmail.com)
 
 <p align="center">
-  
-  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" />
-</p>
-## Coder Name : Nikhil Chalikwar
+  ## Coder Name : Nikhil Chalikwar
 
 - ⬆ **OWN-SIGN - PHOENIX**
 - ➕ **New Skills Unlocked - Graphql, React**
@@ -35,6 +32,9 @@ Here are some ideas to get you started:
 - 🎙 Youtube Channel [Wow!!](https://www.youtube.com/channel/UCcmguJSCP_DzphAyjuHwqXg)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 - 📒 **Learning && Living**
+  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" />
+</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
