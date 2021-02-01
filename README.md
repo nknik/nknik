@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   ## Coder Name : Nikhil Chalikwar
+  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" />
 
 - ⬆ **OWN-SIGN - PHOENIX**
 - ➕ **New Skills Unlocked - Graphql, React**
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - 🎙 Youtube Channel [Wow!!](https://www.youtube.com/channel/UCcmguJSCP_DzphAyjuHwqXg)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 - 📒 **Learning && Living**
-  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" />
 </p>
 
 
