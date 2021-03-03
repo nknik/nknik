@@ -1,5 +1,4 @@
-### Hi there 👋
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+### Hi there 
 <!--
 **nknik/nknik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
