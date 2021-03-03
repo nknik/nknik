@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   ## Coder Name : Nikhil Chalikwar<br><br>
   <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" /> 
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nikhilchalikwar"><a class="LI-simple-link" href='https://in.linkedin.com/in/nikhilchalikwar?trk=profile-badge'>Nikhil Chalikwar</a></div>
-
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nikhilchalikwar"><a class="LI-simple-link" href='https://in.linkedin.com/in/nikhilchalikwar?trk=profile-badge'>Nikhil Chalikwar</a></div>
 - ⬆ **OWN-SIGN - PHOENIX**
 - ➕ **New Skills Unlocked - Graphql, React**
 - 🌱 Loves Python, Automation, Javascript, Java, Cloud && Music
