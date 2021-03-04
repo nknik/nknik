@@ -23,15 +23,15 @@ Here are some ideas to get you started:
   ## Coder Name : Nikhil Chalikwar<br><br>
   <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" /> <br><br>
 - ⬆ **OWN-SIGN - PHOENIX**
-- ➕ **New Skills Unlocked - Graphql, React**
-- 🌱 Loves Python, Automation, Javascript, Java, Cloud && Music
-- 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
-- 🏢 I'm currently working on **Javascript Project** **Dajngo Project** **COVID-stat Project**
-- ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.json` ,`.yaml`,`.dart` ,`.xml`
-- 🎙 Youtube Channel [Wow!!](https://www.youtube.com/channel/UCcmguJSCP_DzphAyjuHwqXg)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 📒 **Learning && Living**
-</p>
+- ➕ **New Skills Unlocked - Graphql, React**<br>
+- 🌱 Loves Python, Automation, Javascript, Java, Cloud && Music<br>
+- 🚀 Learning **Data Structures & Algorithms** to solve bigger problems<br>
+- 🏢 I'm currently working on **Javascript Project** **Dajngo Project** **COVID-stat Project**<br>
+- ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.json` ,`.yaml`,`.dart` ,`.xml`<br>
+- 🎙 Youtube Channel [Wow!!](https://www.youtube.com/channel/UCcmguJSCP_DzphAyjuHwqXg)<br>
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter<br>
+- 📒 **Learning && Living**<br>
+</p><br>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;<br>
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
