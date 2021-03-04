@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   ## Coder Name : Nikhil Chalikwar<br><br>
-  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" /> 
+  <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" /> <br><br>
 - ⬆ **OWN-SIGN - PHOENIX**
 - ➕ **New Skills Unlocked - Graphql, React**
 - 🌱 Loves Python, Automation, Javascript, Java, Cloud && Music
