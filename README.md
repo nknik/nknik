@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 - 🚀 Learning **Data Structures & Algorithms** to solve bigger problems<br>
 - 🏢 I'm currently working on **Javascript Project** **Dajngo Project** **COVID-stat Project**<br>
 - ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.json` ,`.yaml`,`.dart` ,`.xml`<br><br><br>
-- 🎙 Youtube Channel [Wow!!](https://www.youtube.com/channel/UCcmguJSCP_DzphAyjuHwqXg)<br><br><br>
+- 🎙 Youtube Channel [Wow!!](https://www.youtube.com/channel/UCcmguJSCP_DzphAyjuHwqXg)
+- - 🎙 Youtube Playlists [Wow!!](https://www.youtube.com/channel/UCcmguJSCP_DzphAyjuHwqXg/playlists)<br><br><br>
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter<br>
 - 📒 **Learning && Living**<br>
 </p><br>
