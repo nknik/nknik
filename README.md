@@ -89,7 +89,6 @@ Here are some ideas to get you started:
   <a href="#"> <img src="assets/6097906e06490 3.png"
     width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
-    
     <hr>
     <p> <img src="https://komarev.com/ghpvc/?username=nknik" alt="NK" /> </p>
 
