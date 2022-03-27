@@ -1,4 +1,5 @@
-### Hi there 
+### Hi there
+
 <!--
 **nknik/nknik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 <h2>नमस्ते (Namaste)🙏🏻! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
   
 [![](https://img.shields.io/badge/LinkedIn-NikhilChalikwar-blue)](https://www.linkedin.com/in/nikhil-chalikwar-32877418b/)
-[![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwar@gmail.com)
+[![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwarnk@gmail.com)
 
 <p align="center">
   ## Coder Name : Nikhil Chalikwar<br><br>
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter<br>
 - 📒 **Learning && Living**<br>
 </p><br>
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -64,4 +64,99 @@ Here are some ideas to get you started:
 </p>
 ⭐️ From [Nikhil Chalikwar ⭐️NK⭐️](https://github.com/nknik)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nknik" alt="NIKHIL NK" /> </p>
+<p>Hey 👋 Interesting profile right?</p>
 
+<table>
+  <thead>
+    <th>
+
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nknik&theme=tokyonight">
+    </th>
+
+    <th><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknik&layout=compact&theme=tokyonight"
+        alt="NK" /></th> <br/> <br>
+        <hr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=nknik&theme=tokyonight"></th>
+
+  </thead>
+</table>
+<hr>
+<br>
+<a href="https://www.instagram.com/nknik76/"><img src="assets/6097906e06490 4.png" width="50px;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="assets/Group 1.png" width="50px;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"> <img src="assets/6097906e06490 5.png"
+  width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"> <img src="assets/6097906e06490 3.png"
+    width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <br>
+    
+    <hr>
+    <p> <img src="https://komarev.com/ghpvc/?username=nknik" alt="NK" /> </p>
+
+<!-- <img src="assets/Slide 16_9 - 1.jpg"> -->
+
+<table>
+
+  <thead>
+    <td>Languages</td>
+    <td><img src="skills/vscode-icons_file-type-python.png" width="60px;"></td>
+    <td><img src="skills/logos_javascript.png" width="60px;"></td>
+    <td><img src="skills/logos_php.png" width="60px;"></td>
+    <td><img src="skills/logos_java.png" width="60px;"></td>
+    <td><img src="skills/logos_c.png" width="60px;"></td>
+    <td><img src="skills/logos_c-plusplus.png" width="60px;"></td>
+  </thead>
+  <tr>
+    <td>Database</td>
+    <td><img src="skills/vscode-icons_file-type-mongo.png" width="45px;"></td>
+    <td><img src="skills/logos_postgresql.png" width="30px;"></td>
+    <td><img src="skills/logos_mysql.png" width="30px;"></td>
+    <td><img src="skills/logos_redis.png" width="30px;"></td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td><img src="skills/logos_github-octocat.png" width="45px;"></td>
+    <td><img src="skills/logos_gitlab.png" width="30px;"></td>
+    <td><img src="skills/logos_git-icon.png" width="30px;"></td>
+    <td><img src="skills/logos_postman.png" width="30px;"></td>
+  </tr>
+  <tr>
+    <td>UI Design</td>
+    <td><img src="skills/grommet-icons_figma.png" width="30px;"></td>
+    <td><img src="skills/cib_adobe-xd.png" width="30px;"></td>
+    <td><img src="skills/cib_canva.png" width="30px;"></td>
+  </tr>
+
+  <tr>
+    <td>Cloud</td>
+    <td><img src="skills/logos_digital-ocean.png" width="45px;"></td>
+    <td><img src="skills/logos_heroku-icon.png" width="30px;"></td>
+  </tr>
+</table>
+<p align="center">
+  <img
+    src="https://github.com/nknik/nknik/blob/main/slider-dec-v3.png"
+    height="350px" />
+</p>
+ 
+### # Hi there👋! I'm NIK 😇
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nknik" alt="jayant" /> </p>
+
+_**LATEST UPDATE:**_ <i>Learning Python development , Flutter multiplatform & may more :) </i>
+
+- 👨‍🎓 22 year old computer science engineer.
+- 👨‍💻 **_#SelfTaught_** Developer.
+- 📱 Mobile App developer.
+- 😍 Loves to write blogs ❤️
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknik&layout=compact"
+  alt="agamkoradiya" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=nknik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknik&theme=black-blue"
+  alt="nknik" />
