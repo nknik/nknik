@@ -69,16 +69,13 @@ Here are some ideas to get you started:
 <table>
   <thead>
     <th>
-
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nknik&theme=tokyonight">
     </th>
-
     <th><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknik&layout=compact&theme=tokyonight"
         alt="NK" /></th> <br/> <br>
         <hr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=nknik&theme=tokyonight"></th>
-
   </thead>
 </table>
 <hr>
