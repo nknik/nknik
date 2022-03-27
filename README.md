@@ -70,14 +70,14 @@ Here are some ideas to get you started:
 
 <table>
   <thead>
-    <th>
+    <tr>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nknik&theme=tokyonight">
-    </th>
-    <th><img align="center"
+    </tr>
+    <tr><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknik&layout=compact&theme=tokyonight"
-        alt="NK" /></th> <br/> <br>
+        alt="NK" /></tr> <br/> <br>
         <hr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=nknik&theme=tokyonight"></th>
+    <tr><img src="https://github-readme-stats.vercel.app/api?username=nknik&theme=tokyonight"></tr>
   </thead>
 </table>
 <hr>
