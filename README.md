@@ -19,7 +19,9 @@ Here are some ideas to get you started:
   
 [![](https://img.shields.io/badge/LinkedIn-NikhilChalikwar-blue)](https://www.linkedin.com/in/nikhil-chalikwar-32877418b/)
 [![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwarnk@gmail.com)
-
+  <img
+    src="https://github.com/nknik/nknik/blob/main/slider-dec-v3.png"
+    height="350px" />
 <p align="center">
   ## Coder Name : Nikhil Chalikwar<br><br>
   <img src="https://github.com/nknik/nknik/blob/main/tenor%20(1).gif" width="350" /> <br><br>
