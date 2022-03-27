@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2>नमस्ते (Namaste)🙏🏻! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
   
 [![](https://img.shields.io/badge/LinkedIn-NikhilChalikwar-blue)](https://www.linkedin.com/in/nikhil-chalikwar-32877418b/)
-[![](https://img.shields.io/badge/Gmail-nikhilchalikwar@gmail.com-red)](mailto:nikhilchalikwarnk@gmail.com)
+[![](https://img.shields.io/badge/Gmail-nikhilchalikwarnk@gmail.com-red)](mailto:nikhilchalikwarnk@gmail.com)
   <img
     src="https://github.com/nknik/nknik/blob/main/slider-dec-v3.png"
     height="350px" />
